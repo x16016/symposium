@@ -65,7 +65,7 @@ int main(int argc, const char * argv[]) {
     
     
     //色変換（BGR → HSV)
-    cv::cvtColor (re_img, hsv_img, cv::COLOR_BGR2HSV);
+    //cv::cvtColor (re_img, hsv_img, cv::COLOR_BGR2HSV);
     
     
     
